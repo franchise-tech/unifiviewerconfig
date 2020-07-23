@@ -1,0 +1,18 @@
+# Window names
+# 1x1 1080p screen
+windows=(main)
+
+# Windows positions
+window_positions=(
+"0 0 1919 1079" \
+)
+
+# Camera Names
+camera_names=(main)
+
+camera_feeds=(
+"rtsp://170.93.143.139/rtplive/470011e600ef003a004ee33696235daa" \
+)
+
+# Are we rotating cameras through the window matrix? (default false if not set $
+# rotate="true"
